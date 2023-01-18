@@ -1,0 +1,8 @@
+
+[
+java:S1226i"EIntroduce a new variable instead of reusing the parameter "fuelType".(Ö¾¥Ô
+V	java:S107 "AConstructor has 9 parameters, which is greater than 7 authorized.(«õè·
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(§÷ºøÿÿÿÿÿ
+[
+java:S1117u"@Rename "crewCapacity" which hides the field declared at line 10.(–‚æôøÿÿÿÿ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(Æ¸ð 

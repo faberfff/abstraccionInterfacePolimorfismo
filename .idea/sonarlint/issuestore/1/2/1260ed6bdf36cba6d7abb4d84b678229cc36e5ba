@@ -1,0 +1,11 @@
+
+[
+java:S1226s"EIntroduce a new variable instead of reusing the parameter "fuelType".(Ö¾¥Ô
+[	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(‚ðäæÿÿÿÿÿ
+T
+java:S1117Q"9Rename "state" which hides the field declared at line 17.(¾Š¯Ôúÿÿÿÿ
+O
+java:S1117R":Rename "target" which hides the field declared at line 18.(´æÄs
+=
+java:S1125^"'Remove the unnecessary boolean literal.(—¾˜÷
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(§÷ºøÿÿÿÿÿ
